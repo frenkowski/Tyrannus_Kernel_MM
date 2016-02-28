@@ -1,12 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 10
-<<<<<<< HEAD
-SUBLEVEL = 96
+SUBLEVEL = 98
 EXTRAVERSION = -Tyrannus_Kernel_V1.1
-=======
-SUBLEVEL = 97
-EXTRAVERSION =
->>>>>>> 3dfabc9... Linux 3.10.97
 NAME = TOSSUG Baby Fish
 
 #TOOLCHAIN_DIR = $(CURDIR)/toolchain/aarch64-linux-gnu-5.3/bin/aarch64-
