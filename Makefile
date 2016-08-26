@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 10
 SUBLEVEL = 101
-EXTRAVERSION = -Tyrannus_Kernel_V2.0
+EXTRAVERSION = -Tyrannus_Kernel_V2.1
 NAME = TOSSUG Baby Fish
 
 #TOOLCHAIN_DIR = $(CURDIR)/toolchain/aarch64-linux-gnu-5.3/bin/aarch64-
